@@ -13,6 +13,6 @@ for (i = 5; i > 0; i--) {
   }
   for (j = i; j <= n; j++) {
     row = row + "* ";
-  }
+  }  
   console.log(row);
 }
